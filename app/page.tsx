@@ -1,3 +1,4 @@
+"use client"
 // IOS9999 自动发货完整项目 - Next.js + TailwindCSS
 // 项目结构：
 // ios9999/
